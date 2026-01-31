@@ -58,4 +58,4 @@ jupyter lab
 - Self-serve dashboards → faster decisions for marketing & supply chain.
 
 ## Author
-Rohan S. Borse · [LinkedIn](https://linkedin.com/in/rohanborse) · rohan.borse@case.edu
+Sonu Kumar · [LinkedIn](https://linkedin.com/in/sonu-kumar-mahato/) · ksonumahto@gmail.com
