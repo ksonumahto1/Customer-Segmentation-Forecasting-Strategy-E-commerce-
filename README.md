@@ -1,2 +1,3 @@
-# Customer-Segmentation-Forecasting-Strategy-E-commerce-
-Full-stack analytics for JD.com: built Tableau dashboards linking customer segments to ops KPIs; segmented 1M+ users with Python (K-Means on RFM/behavior); trained XGBoost SKU-region demand model (R²=0.83) from SQL data. Outputs informed targeting (¥30M/mo projected lift) and inventory (¥6M/yr savings).
+Customer Segmentation & Forecasting Strategy (E-commerce)
+Overview
+Full-stack analytics project for a large e-commerce retailer. Built Tableau dashboards linking customer segments to operational KPIs; segmented 1M+ users with Python (K-Means on RFM/engagement); developed SKU×region demand forecasts with XGBoost (R² ≈ 0.83). Insights projected ~¥30M/month revenue lift (targeted campaigns) and ~¥6M/year savings (better stocking, fewer stockouts).
